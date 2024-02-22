@@ -1,6 +1,6 @@
 #For details about configuration items, see https://seata.io/zh-cn/docs/user/configurations.html
 #Transport configuration, for client and server
-transport.type=TCP
+transport.type=TCP 
 transport.server=NIO
 transport.heartbeat=true
 transport.enableTmClientBatchSendRequest=false
